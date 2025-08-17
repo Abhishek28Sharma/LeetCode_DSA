@@ -1,5 +1,3 @@
-# LeetCode_DSA
-
 <h1 align="center">Hi 👋, I'm Abhishek Sharma</h1>
 <h3 align="center">A passionate WEB and DSA developer from India.</h3>
 
