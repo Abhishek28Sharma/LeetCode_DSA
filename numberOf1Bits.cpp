@@ -13,3 +13,6 @@ int main(){
   }
   cout << "Number of 1 bits: " << count << endl;
 }
+
+//output
+3
